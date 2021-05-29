@@ -156,22 +156,8 @@ $ npm start ou yarn start
 As seguintes ferramentas foram usadas na construção do projeto:
 
 
-####   ([NodeJS](https://nodejs.org/en/)  +  [TypeScript](https://www.typescriptlang.org/))
-## 🦸 Autor
-195
-​
-196
-​
-197
- <img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/12722629?s=400&u=c3d3e1b1fccb1da4b9b7c906393a24d507adae36&v=4" width="100px;" alt=""/>
-198
- <br />
-199
- <sub><b>Thales Morais</b></sub>
-200
- <br />
-201
 
+-   **[NodeJS](https://nodejs.org/en/)  +  [TypeScript](https://www.typescriptlang.org/))
 -   **[Express](https://expressjs.com/)**
 -   **[CORS](https://expressjs.com/en/resources/middleware/cors.html)**
 -   **[Typeorm](https://typeorm.io/)**
@@ -179,8 +165,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[ts-node](https://github.com/TypeStrong/ts-node)**
 -   **[Multer](https://github.com/expressjs/multer)**
 
-
-> Veja o arquivo  [package.json](https://github.com/Thalesmoraisdealmeida21/E-Learned-Back-end/blob/master/package.json)
 
 
 
@@ -202,6 +186,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
-Feito com ❤️ por Thales Morais 👋🏽 [Entre em contato!](https://www.linkedin.com/in/thales-morais/)
 
 
