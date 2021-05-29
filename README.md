@@ -44,7 +44,7 @@ Tabela de conteúdos
 
 
 Este repositório contempla a API da plataforma, podendo ser acessada a versão front-end pela repositorio
-  <a href="https://github.com/Thalesmoraisdealmeida21/E-Learned-Front-end">
+  <a href="https://github.com/FlorescerEducacao/FlorescerFrontEnd">
     Repositorio Front-end Web (React)
   </a>
 
@@ -82,8 +82,8 @@ Este repositório contempla a API da plataforma, podendo ser acessada a versão 
 
 Este projeto é divido em duas partes:
 1. Backend (Este repositório)
-<a href="https://github.com/Thalesmoraisdealmeida21/E-Learned-Front-end">
-  2. Frontend
+<a href="https://github.com/FlorescerEducacao/FlorescerFrontEnd">
+2. Frontend
 </a>
 
 
