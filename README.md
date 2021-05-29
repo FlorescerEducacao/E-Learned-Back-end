@@ -14,13 +14,6 @@
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/thalesmoraisdealmeida21/E-Learned-Back-end?style=for-the-badge">
 
 
-  <a href="https://github.com/tgmarinho/README-ecoleta/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/thalesmoraisdealmeida21/E-Learned-Back-end?style=for-the-badge">
-  </a>
-   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?style=for-the-badge">
-   <a href="https://github.com/tgmarinho/README-ecoleta/stargazers">
-  </a>
-
 
 
 
